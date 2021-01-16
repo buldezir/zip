@@ -22,12 +22,11 @@
     },
     "autoload": {
         "psr-4": {
-             "Comodojo\\Zip\\": "src/Comodojo/Zip"
+             "Comodojo\\": "src/Comodojo"
          }
     },
     "require": {
         "php": ">=7.4",
-        "comodojo/foundation": "dev-master",
         "ext-zip": "*"
     },
     "require-dev": {

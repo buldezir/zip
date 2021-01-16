@@ -2,6 +2,7 @@
 
 use \Comodojo\Zip\Interfaces\ZipInterface;
 use \Comodojo\Exception\ZipException;
+use Comodojo\Zip\Zip;
 
 /**
  * Skip mode helper trait.

@@ -1,6 +1,9 @@
-<?php namespace Comodojo\Zip\Interfaces;
+<?php
+
+namespace Comodojo\Zip\Interfaces;
 
 use \Comodojo\Exception\ZipException;
+use Comodojo\Zip\Zip;
 use \ZipArchive;
 
 /**
